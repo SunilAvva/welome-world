@@ -1,4 +1,4 @@
-# welome-world
+# welcome-world - First sample program
 Hello world - Test Repo
 
 Hi Fellows, 
